@@ -1,7 +1,7 @@
 "# huawei-mifi-auto-script-tampermonkey" 
 
 Purpose:
-my bad singal from telecom operator cause me to repeatedly reset the network as to increase network speed by resetting, this script is helping me to prevent the fatigue of doing that
+my bad signal from telecom operator cause me to repeatedly reset the network as to increase network speed by resetting, this script is helping me to prevent the fatigue of doing that
 
 script used to add: 
 - network speed smalll widget
